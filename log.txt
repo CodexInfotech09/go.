@@ -1,0 +1,228 @@
+UserID: 6768273586 | Time: 2024-06-18 16:32:38.881852 | Command: /attack | Target: 20.204.69.85 | Port: 14784 | Time: 50
+Username: @MrinMoYxCB
+Target: 20.204.69.85
+Port: 14784
+Time: 50
+
+UserID: 863597536 | Time: 2024-06-18 16:33:25.734116 | Command: /attack | Target: 20.204.178.38 | Port: 23764 | Time: 10
+Username: @EaruingamGogoi
+Target: 20.204.178.38
+Port: 23764
+Time: 10
+
+UserID: 690066242 | Time: 2024-06-18 17:19:42.364128 | Command: /attack | Target: 4.213.65.184 | Port: 27565 | Time: 240
+Username: UserID: 690066242
+Target: 4.213.65.184
+Port: 27565
+Time: 240
+
+UserID: 690066242 | Time: 2024-06-18 17:22:06.653995 | Command: /attack | Target: 20.204.16.246 | Port: 28316 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.16.246
+Port: 28316
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 17:54:44.730251 | Command: /attack | Target: 20.204.191.230 | Port: 10397 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.191.230
+Port: 10397
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:03:01.098418 | Command: /attack | Target: 4.213.65.132 | Port: 19772 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.65.132
+Port: 19772
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:04:50.513658 | Command: /attack | Target: 4.213.65.132 | Port: 19772 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.65.132
+Port: 19772
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:12:22.739234 | Command: /attack | Target: 20.235.95.37 | Port: 26283 | Time: 180
+Username: UserID: 690066242
+Target: 20.235.95.37
+Port: 26283
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:12:52.973828 | Command: /attack | Target: 20.235.95.37 | Port: 26283 | Time: 180
+Username: UserID: 690066242
+Target: 20.235.95.37
+Port: 26283
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:37:13.476806 | Command: /attack | Target: 20.204.88.3 | Port: 28493 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.88.3
+Port: 28493
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:42:22.480694 | Command: /attack | Target: 20.198.105.102 | Port: 29304 | Time: 180
+Username: UserID: 690066242
+Target: 20.198.105.102
+Port: 29304
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:44:26.461097 | Command: /attack | Target: 20.198.105.102 | Port: 29304 | Time: 180
+Username: UserID: 690066242
+Target: 20.198.105.102
+Port: 29304
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:49:25.106236 | Command: /attack | Target: 20.204.21.128 | Port: 10953 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.21.128
+Port: 10953
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:51:16.617171 | Command: /attack | Target: 20.204.21.128 | Port: 10953 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.21.128
+Port: 10953
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 18:52:27.491966 | Command: /attack | Target: 20.204.21.128 | Port: 10953 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.21.128
+Port: 10953
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 19:06:42.203356 | Command: /attack | Target: 20.219.88.108 | Port: 27304 | Time: 180
+Username: UserID: 690066242
+Target: 20.219.88.108
+Port: 27304
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 19:30:48.996495 | Command: /attack | Target: 4.213.68.231 | Port: 16892 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.68.231
+Port: 16892
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-18 19:33:48.587380 | Command: /attack | Target: 4.213.68.231 | Port: 16892 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.68.231
+Port: 16892
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 03:33:59.386344 | Command: /attack | Target: 20.198.107.123 | Port: 15787 | Time: 180
+Username: UserID: 690066242
+Target: 20.198.107.123
+Port: 15787
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 03:36:06.963372 | Command: /attack | Target: 20.198.107.123 | Port: 15787 | Time: 180
+Username: UserID: 690066242
+Target: 20.198.107.123
+Port: 15787
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 04:36:25.331041 | Command: /attack | Target: 20.204.76.235 | Port: 10994 | Time: 180
+Username: UserID: 690066242
+Target: 20.204.76.235
+Port: 10994
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 04:51:38.357020 | Command: /attack | Target: 20.198.77.6 | Port: 14532 | Time: 360
+Username: UserID: 690066242
+Target: 20.198.77.6
+Port: 14532
+Time: 360
+
+UserID: 690066242 | Time: 2024-06-19 04:53:35.425015 | Command: /attack | Target: 20.198.77.6 | Port: 14532 | Time: 180
+Username: UserID: 690066242
+Target: 20.198.77.6
+Port: 14532
+Time: 180
+
+UserID: 1825910191 | Time: 2024-06-19 05:57:45.862767 | Command: /attack | Target: 20.198.104.241 | Port: 23679 | Time: 500
+Username: @navi_gillz
+Target: 20.198.104.241
+Port: 23679
+Time: 500
+
+UserID: 1825910191 | Time: 2024-06-19 05:59:45.903101 | Command: /attack | Target: 4.213.68.218 | Port: 18445 | Time: 300
+Username: @navi_gillz
+Target: 4.213.68.218
+Port: 18445
+Time: 300
+
+UserID: 1825910191 | Time: 2024-06-19 06:07:43.838329 | Command: /attack | Target: 20.235.90.134 | Port: 12041 | Time: 400
+Username: @navi_gillz
+Target: 20.235.90.134
+Port: 12041
+Time: 400
+
+UserID: 1651980050 | Time: 2024-06-19 06:29:53.053625 | Command: /attack | Target: 20.235.51.181 | Port: 28816 | Time: 400
+Username: UserID: 1651980050
+Target: 20.235.51.181
+Port: 28816
+Time: 400
+
+UserID: 690066242 | Time: 2024-06-19 06:39:51.085379 | Command: /attack | Target: 4.213.65.144 | Port: 17140 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.65.144
+Port: 17140
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 06:41:44.147997 | Command: /attack | Target: 4.213.65.144 | Port: 17140 | Time: 180
+Username: UserID: 690066242
+Target: 4.213.65.144
+Port: 17140
+Time: 180
+
+UserID: 690066242 | Time: 2024-06-19 06:48:50.468043 | Command: /attack | Target: 20.198.7.12 | Port: 20307 | Time: 280
+Username: UserID: 690066242
+Target: 20.198.7.12
+Port: 20307
+Time: 280
+
+UserID: 690066242 | Time: 2024-06-19 06:50:55.684314 | Command: /attack | Target: 20.198.7.12 | Port: 20307 | Time: 120
+Username: UserID: 690066242
+Target: 20.198.7.12
+Port: 20307
+Time: 120
+
+UserID: 690066242 | Time: 2024-06-19 06:56:37.030637 | Command: /attack | Target: 20.235.19.173 | Port: 24010 | Time: 180
+Username: UserID: 690066242
+Target: 20.235.19.173
+Port: 24010
+Time: 180
+
+UserID: 1651980050 | Time: 2024-06-19 06:58:32.784447 | Command: /attack | Target: 20.198.76.220 | Port: 16579 | Time: 400
+Username: UserID: 1651980050
+Target: 20.198.76.220
+Port: 16579
+Time: 400
+
+UserID: 1825910191 | Time: 2024-06-19 08:42:17.423236 | Command: /attack | Target: 20.219.88.200 | Port: 28796 | Time: 400
+Username: @navi_gillz
+Target: 20.219.88.200
+Port: 28796
+Time: 400
+
+UserID: 6768273586 | Time: 2024-06-19 08:51:37.861713 | Command: /attack | Target: 20.234.33.33 | Port: 12333 | Time: 12
+Username: @MrinMoYxCB
+Target: 20.234.33.33
+Port: 12333
+Time: 12
+
+UserID: 1825910191 | Time: 2024-06-19 08:53:26.277762 | Command: /attack | Target: 20.204.181.190 | Port: 16427 | Time: 400
+Username: @navi_gillz
+Target: 20.204.181.190
+Port: 16427
+Time: 400
+
+UserID: 1825910191 | Time: 2024-06-19 08:56:44.146122 | Command: /attack | Target: 20.235.95.192 | Port: 25163 | Time: 400
+Username: @navi_gillz
+Target: 20.235.95.192
+Port: 25163
+Time: 400
+
+UserID: 6942099571 | Time: 2024-06-19 11:18:28.499434 | Command: /attack | Target: 20.234.76.65 | Port: 12345 | Time: 60
+Username: @Saurabhk13_23
+Target: 20.234.76.65
+Port: 12345
+Time: 60
+
